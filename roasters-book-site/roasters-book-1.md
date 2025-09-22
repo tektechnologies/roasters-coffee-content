@@ -92,11 +92,3 @@ Indian Monsooned Malabar
 
 — Medium roast. Smooth and mellow with undertones of bakers chocolate.$13.25
 
-<div style="display: flex; height: 30px;">
-  <div style="flex: 1; background-color: rgb(219,206,188);"></div>
-  <div style="flex: 1; background-color: rgb(193,178,162);"></div>
-  <div style="flex: 1; background-color: rgb(196,182,167);"></div>
-  <div style="flex: 1; background-color: rgb(193,182,167);"></div>
-  <div style="flex: 1; background-color: rgb(200,188,174);"></div>
-  <div style="flex: 1; background-color: rgb(173,166,157);"></div>
-</div>
