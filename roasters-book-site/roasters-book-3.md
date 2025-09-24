@@ -18,7 +18,7 @@
 
 **Breakfast Blend** (Guat, Kenya, Col) Medium bodied, balanced and full flavored.
 
-**Davide's Dark Duo** (Peru, Tanz) Dark, full bodied, rich with a zing.
+**David's Dark Duo** (Peru, Tanz) Dark, full bodied, rich with a zing.
 
 **Evening Blend** (Sumatra, Col) Smooth, full bodied, and rich.
 
@@ -80,7 +80,7 @@ Roasters is also available on a need basis. Ask for details.
 
 Flavored Coffee — All our flavors use Organic Mexican coffee as a base. $13.75/lb
 
-Hot ATPOS are available for your meetings. Advanced notice & deposit appreciated.
+Hot AirPots are available for your meetings. Advanced notice & deposit appreciated.
 
 Bulk coffee can be packaged and shipped.
 
