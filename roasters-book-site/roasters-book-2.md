@@ -14,11 +14,11 @@
 
 **General syrup placement (The right spots always)**
 
-| SFTo | Ama  | Pep   | Ginger | Pump  |
-|------|------|-------|--------|-------|
-| SFA  | Coc  | Ora   | Blue   | Black | vscp |
-| Lav  | Mar  | Boy   | Ras    | ET    |
-| SC   | Tm   | Spe   | Halls  | FVA   |
+|------|------|-------|--------|-------|------|
+| SF.AI | SF.Co | Ama  | Pep   | Ginger | Pump  |
+| SF.HA | Coc   | Ora  | Blue  | Black | rasp |
+| SF.CA | Lav   | Mar  | BSC   | Haz    | ET    |
+| SF.VA | SC    | Tm   | Specials    | FVA   |
 
 ---
 
