@@ -1,10 +1,6 @@
-# Roasters Book Page 6
+# Syrups
 
 ![Roasters Book Page 6](../images/roasters-book/roasters-book-6.JPG)
-
-## Extracted Text
-
-*[Text content extracted from the image will be added here]*
 
 ---
 

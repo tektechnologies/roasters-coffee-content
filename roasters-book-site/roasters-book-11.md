@@ -1,16 +1,10 @@
-# Roasters Book Page 11
+# Opening Checklist
 
 ![Roasters Book Page 11](../images/roasters-book/roasters-book-11.JPG)
-
-## Extracted Text
-
-*[Text content extracted from the image will be added here]*
 
 ---
 
 **Source Image:** `../images/roasters-book/roasters-book-11.JPG`
-
-# Opening Checklist
 
 - Clock in
 - Turn on lights, including lamps and backroom
@@ -25,5 +19,6 @@
 - Unlock front door and turn on open sign
 
 *Handwritten notes:*
+
 - "we mi Scones!" (in purple)
 - "stock scones." (in dark blue/black)

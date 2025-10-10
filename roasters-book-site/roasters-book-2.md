@@ -1,10 +1,6 @@
-# Roasters Book Page 2
+# Syrup Placement Chart
 
 ![Roasters Book Page 2](../images/roasters-book/roasters-book-2.JPG)
-
-## Extracted Text
-
-*[Text content extracted from the image will be added here]*
 
 ---
 
