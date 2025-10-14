@@ -9,3 +9,5 @@
 ---
 
 **Source Image:** `../images/roasters-book/roasters-book-15.JPG`
+
+Clean and dust interior of the pastry case
