@@ -6,7 +6,7 @@
 
 **Source Image:** `../images/roasters-book/roasters-book-25.JPG`
 
-# COLD BREW INSTRUCTIONS
+## COLD BREW INSTRUCTIONS
 
 - To brew cold brew you will need: The green plug, the fabric filter, a paper filter, the 2 parts of the filter.
 
