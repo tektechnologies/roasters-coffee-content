@@ -6,7 +6,7 @@
 
 **Source Image:** `../images/roasters-book/roasters-book-27.JPG`
 
-# Drink Recipes
+## Drink Recipes
 
 | Drink | 12oz | 16oz | 20oz |
 |-------|------|------|------|
