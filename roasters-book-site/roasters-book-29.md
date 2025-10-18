@@ -6,7 +6,7 @@
 
 **Source Image:** `../images/roasters-book/roasters-book-29.JPG`
 
-# Drink Special Recipes
+## Drink Special Recipes
 
 *(For 16 oz drink)*
 
