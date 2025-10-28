@@ -6,7 +6,7 @@
 
 **Source Image:** `../images/roasters-book/roasters-book-32.JPG`
 
-# Roasting Basics
+## Roasting Basics
 
 * Measure out your green beans. Ideally around 20 lbs.
 * Make sure air vent is set to "Through Cooling Bin" and your burner switch is turned on.
