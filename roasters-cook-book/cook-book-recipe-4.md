@@ -6,10 +6,7 @@
 
 **Source Image:** `../images/cook-book-roasters/cook-book-recipe-4.JPG`
 
-Here's the text from the image formatted in markdown:
-
-```markdown
-## How Do I Bake....
+## How Do I Bake
 
 ## Baking Temperatures and Times
 
@@ -36,4 +33,3 @@ Here's the text from the image formatted in markdown:
 **Bacon:** 350 degrees for 10-12 minutes (we only want to par-cook bacon, we reheat it for service when its ordered)
 
 **Quiche Crust (Puff Pastry):** 350 degrees, for 10-15 minutes or until golden brown.
-```
