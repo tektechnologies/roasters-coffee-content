@@ -1,8 +1,8 @@
 # Roasters Coffee Offering
 
-![Roasters Book Page 1](../images/roasters-book/roasters-book-1.JPG)
+![Roasters Book Page 1](../images/shift-book/roasters-book-1.JPG)
 
-**Source Image:** `../images/roasters-book/roasters-book-1.JPG`
+**Source Image:** `../images/shift-book/roasters-book-1.JPG`
 
 ## Latin America
 
