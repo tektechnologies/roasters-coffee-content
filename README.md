@@ -1,78 +1,158 @@
-# Roasters Coffee House
+# Coffee Roasters Documentation
 
-**Website:** <https://roasterscoffeehouse.com/>  
-**Snapshot date:** September 22, 2025
+***Coffee roasting notes, recipes, and reference materials***
 
-## Project Overview
+[My GitHub page](https://github.com/tektechnologies/coffee-roasters)
 
-This repository contains a comprehensive coffee roasting knowledge base and website for Roasters Coffee House, a local coffee roastery and café located in Hiawatha, IA. The project includes:
+## Table of Contents
 
-- **Coffee Roasting Guides**: Detailed roasting instructions for different coffee origins (Brazil, Honduras, Mexico, Malabar, etc.)
-- **Interactive Website**: A web interface for browsing coffee resources and roasting information
-- **Coffee Catalog**: Complete catalog of coffee offerings with descriptions and pricing
-- **Flash Cards**: PDF reference materials for coffee roasting
-- **Roasting Documentation**: Technical notes and procedures for the Diedrich IR-5 roaster
+### Roasters Book Site
+- [Roasters Book 1](/roasters-book-site/roasters-book-1.md)
+- [Roasters Book 2](/roasters-book-site/roasters-book-2.md)
+- [Roasters Book 3](/roasters-book-site/roasters-book-3.md)
+- [Roasters Book 4](/roasters-book-site/roasters-book-4.md)
+- [Roasters Book 5](/roasters-book-site/roasters-book-5.md)
+- [Roasters Book 6](/roasters-book-site/roasters-book-6.md)
+- [Roasters Book 7](/roasters-book-site/roasters-book-7.md)
+- [Roasters Book 8](/roasters-book-site/roasters-book-8.md)
+- [Roasters Book 9](/roasters-book-site/roasters-book-9.md)
+- [Roasters Book 10](/roasters-book-site/roasters-book-10.md)
+- [Roasters Book 11](/roasters-book-site/roasters-book-11.md)
+- [Roasters Book 12](/roasters-book-site/roasters-book-12.md)
+- [Roasters Book 13](/roasters-book-site/roasters-book-13.md)
+- [Roasters Book 14](/roasters-book-site/roasters-book-14.md)
+- [Roasters Book 15](/roasters-book-site/roasters-book-15.md)
+- [Roasters Book 16](/roasters-book-site/roasters-book-16.md)
+- [Roasters Book 17](/roasters-book-site/roasters-book-17.md)
+- [Roasters Book 18](/roasters-book-site/roasters-book-18.md)
+- [Roasters Book 19](/roasters-book-site/roasters-book-19.md)
+- [Roasters Book 20](/roasters-book-site/roasters-book-20.md)
+- [Roasters Book 21](/roasters-book-site/roasters-book-21.md)
+- [Roasters Book 22](/roasters-book-site/roasters-book-22.md)
+- [Roasters Book 23](/roasters-book-site/roasters-book-23.md)
+- [Roasters Book 24](/roasters-book-site/roasters-book-24.md)
+- [Roasters Book 25](/roasters-book-site/roasters-book-25.md)
+- [Roasters Book 26](/roasters-book-site/roasters-book-26.md)
+- [Roasters Book 27](/roasters-book-site/roasters-book-27.md)
+- [Roasters Book 28](/roasters-book-site/roasters-book-28.md)
+- [Roasters Book 29](/roasters-book-site/roasters-book-29.md)
+- [Roasters Book 30](/roasters-book-site/roasters-book-30.md)
+- [Roasters Book 31](/roasters-book-site/roasters-book-31.md)
+- [Roasters Book 32](/roasters-book-site/roasters-book-32.md)
+- [Roasters Book 33](/roasters-book-site/roasters-book-33.md)
+- [Roasters Book 34](/roasters-book-site/roasters-book-34.md)
+- [Roasters Book 35](/roasters-book-site/roasters-book-35.md)
+- [Roasters Book 36](/roasters-book-site/roasters-book-36.md)
+- [Roasters Book 37](/roasters-book-site/roasters-book-37.md)
+- [Roasters Book 38](/roasters-book-site/roasters-book-38.md)
+- [Roasters Book 39](/roasters-book-site/roasters-book-39.md)
+- [Roasters Book 40](/roasters-book-site/roasters-book-40.md)
+- [Roasters Book 41](/roasters-book-site/roasters-book-41.md)
+- [Roasters Book 42](/roasters-book-site/roasters-book-42.md)
+- [Roasters Book 43](/roasters-book-site/roasters-book-43.md)
+- [Roasters Book 44](/roasters-book-site/roasters-book-44.md)
+- [Roasters Book 45](/roasters-book-site/roasters-book-45.md)
+- [Roasters Book 46](/roasters-book-site/roasters-book-46.md)
+- [Roasters Book 47](/roasters-book-site/roasters-book-47.md)
+- [Roasters Book 48](/roasters-book-site/roasters-book-48.md)
+- [Roasters Book 49](/roasters-book-site/roasters-book-49.md)
+- [Roasters Book 50](/roasters-book-site/roasters-book-50.md)
+- [Roasters Book 51](/roasters-book-site/roasters-book-51.md)
+- [Roasters Book 52](/roasters-book-site/roasters-book-52.md)
+- [Roasters Book 53](/roasters-book-site/roasters-book-53.md)
+- [Roasters Book 55](/roasters-book-site/roasters-book-55.md)
 
-## Business Overview
+### Cook Book Recipes
+- [Recipe 1](/roasters-cook-book/cook-book-recipe-1.md)
+- [Recipe 2](/roasters-cook-book/cook-book-recipe-2.md)
+- [Recipe 3](/roasters-cook-book/cook-book-recipe-3.md)
+- [Recipe 4](/roasters-cook-book/cook-book-recipe-4.md)
+- [Recipe 5](/roasters-cook-book/cook-book-recipe-5.md)
+- [Recipe 6](/roasters-cook-book/cook-book-recipe-6.md)
+- [Recipe 7](/roasters-cook-book/cook-book-recipe-7.md)
+- [Recipe 8](/roasters-cook-book/cook-book-recipe-8.md)
+- [Recipe 9](/roasters-cook-book/cook-book-recipe-9.md)
+- [Recipe 10](/roasters-cook-book/cook-book-recipe-10.md)
+- [Recipe 11](/roasters-cook-book/cook-book-recipe-11.md)
+- [Recipe 12](/roasters-cook-book/cook-book-recipe-12.md)
+- [Recipe 13](/roasters-cook-book/cook-book-recipe-13.md)
+- [Recipe 14](/roasters-cook-book/cook-book-recipe-14.md)
+- [Recipe 15](/roasters-cook-book/cook-book-recipe-15.md)
+- [Recipe 16](/roasters-cook-book/cook-book-recipe-16.md)
+- [Recipe 17](/roasters-cook-book/cook-book-recipe-17.md)
+- [Recipe 18](/roasters-cook-book/cook-book-recipe-18.md)
+- [Recipe 19](/roasters-cook-book/cook-book-recipe-19.md)
+- [Recipe 20](/roasters-cook-book/cook-book-recipe-20.md)
+- [Recipe 21](/roasters-cook-book/cook-book-recipe-21.md)
+- [Recipe 22](/roasters-cook-book/cook-book-recipe-22.md)
+- [Recipe 23](/roasters-cook-book/cook-book-recipe-23.md)
+- [Recipe 24](/roasters-cook-book/cook-book-recipe-24.md)
+- [Recipe 25](/roasters-cook-book/cook-book-recipe-25.md)
+- [Recipe 26](/roasters-cook-book/cook-book-recipe-26.md)
+- [Recipe 27](/roasters-cook-book/cook-book-recipe-27.md)
+- [Recipe 28](/roasters-cook-book/cook-book-recipe-28.md)
+- [Recipe 29](/roasters-cook-book/cook-book-recipe-29.md)
+- [Recipe 30](/roasters-cook-book/cook-book-recipe-30.md)
+- [Recipe 31](/roasters-cook-book/cook-book-recipe-31.md)
+- [Recipe 32](/roasters-cook-book/cook-book-recipe-32.md)
+- [Recipe 33](/roasters-cook-book/cook-book-recipe-33.md)
+- [Recipe 34](/roasters-cook-book/cook-book-recipe-34.md)
+- [Recipe 35](/roasters-cook-book/cook-book-recipe-35.md)
+- [Recipe 36](/roasters-cook-book/cook-book-recipe-36.md)
+- [Recipe 37](/roasters-cook-book/cook-book-recipe-37.md)
+- [Recipe 38](/roasters-cook-book/cook-book-recipe-38.md)
+- [Recipe 39](/roasters-cook-book/cook-book-recipe-39.md)
+- [Recipe 40](/roasters-cook-book/cook-book-recipe-40.md)
+- [Recipe 41](/roasters-cook-book/cook-book-recipe-41.md)
+- [Recipe 42](/roasters-cook-book/cook-book-recipe-42.md)
+- [Recipe 43](/roasters-cook-book/cook-book-recipe-43.md)
+- [Recipe 44](/roasters-cook-book/cook-book-recipe-44.md)
+- [Recipe 45](/roasters-cook-book/cook-book-recipe-45.md)
+- [Recipe 46](/roasters-cook-book/cook-book-recipe-46.md)
+- [Recipe 47](/roasters-cook-book/cook-book-recipe-47.md)
+- [Recipe 48](/roasters-cook-book/cook-book-recipe-48.md)
+- [Recipe 49](/roasters-cook-book/cook-book-recipe-49.md)
+- [Recipe 50](/roasters-cook-book/cook-book-recipe-50.md)
+- [Recipe 51](/roasters-cook-book/cook-book-recipe-51.md)
+- [Recipe 52](/roasters-cook-book/cook-book-recipe-52.md)
+- [Recipe 53](/roasters-cook-book/cook-book-recipe-53.md)
+- [Recipe 54](/roasters-cook-book/cook-book-recipe-54.md)
+- [Recipe 55](/roasters-cook-book/cook-book-recipe-55.md)
+- [Recipe 56](/roasters-cook-book/cook-book-recipe-56.md)
+- [Recipe 57](/roasters-cook-book/cook-book-recipe-57.md)
+- [Recipe 58](/roasters-cook-book/cook-book-recipe-58.md)
+- [Recipe 59](/roasters-cook-book/cook-book-recipe-59.md)
+- [Recipe 60](/roasters-cook-book/cook-book-recipe-60.md)
+- [Recipe 61](/roasters-cook-book/cook-book-recipe-61.md)
+- [Recipe 62](/roasters-cook-book/cook-book-recipe-62.md)
+- [Recipe 63](/roasters-cook-book/cook-book-recipe-63.md)
+- [Recipe 64](/roasters-cook-book/cook-book-recipe-64.md)
+- [Recipe 65](/roasters-cook-book/cook-book-recipe-65.md)
 
-Roasters Coffee House is a local coffee roastery and café that roasts beans in-house, offers retail beans, subscriptions, café drinks and bites, event catering, and online ordering via Square.
+### Roasting Guides
+- [Roasting 1](/roasting/roasting-1.md)
+- [Brazil](/roasting/Brazil.md)
+- [Espresso](/roasting/Esspresso.md)
+- [General Roast Flow](/roasting/General-Roast-Flow.md)
+- [Honduras](/roasting/Hondurous.md)
+- [Malabar](/roasting/Malabar.md)
+- [Mexico](/roasting/Mexico.md)
 
-## Quick facts
+### Reference Materials
+- [Flash Cards PDF](/Roasters-flash-cards.pdf)
 
-- **Address:** 1059 N Center Point Road, Hiawatha, IA 52233  
-- **Phone:** (319) 393-6001  
-- **Email:** <roasterscoffeehouseia@gmail.com>  
-- **Hours:** Mon–Fri 6am–6pm; Sat 7am–3pm; Sun 8am–3pm (holidays may affect hours)
+## Markdown Examples
 
-## Website structure
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
-- Home  
-- Current Roasts  
-- Drink Menu  
-- Bites  
-- Subscriptions  
-- Contact  
-- Order Online (external link to Square)
+![Roasters Logo](/images/logo.fw.png)
 
-## Offerings
+Format: ![Alt Text](url)
 
-- In-house roasted beans (served within ~3 weeks of roast)  
-- Subscriptions for regular deliveries  
-- Wholesale / B2B supply (contact for special pricing)  
-- Event catering (hot pots + baked goods with notice)  
-- Free Wi-Fi for guests
+https://github.com/tektechnologies/coffee-roasters - automatic!
 
-## Repository Structure
+[GitHub Repository](https://github.com/tektechnologies/coffee-roasters)
 
-This repository is organized into several key directories:
-
-### 📁 Coffee Knowledge Base
-
-- `roasting/` - Coffee roasting guides and procedures
-  - `Brazil.md`, `Honduras.md`, `Mexico.md`, `Malabar.md` - Origin-specific roasting guides
-  - `Espresso.md` - Espresso techniques and procedures
-  - `General-Roast-Flow.md` - General roasting workflow
-  - `roasting-1.md` - Diedrich IR-5 roaster technical documentation
-
-### 📁 Coffee Catalog
-
-- `roasters-book-site/` - Complete coffee catalog (55+ coffee varieties)
-  - Individual markdown files for each coffee offering
-  - Includes descriptions, pricing, and origin information
-  - Covers Latin America, Africa, and Asia/Indonesia regions
-
-### 📁 Reference Materials
-
-- `Roasters flash cards .pdf` - Quick reference flash cards for coffee roasting
-
-## Project Purpose
-
-This repository serves as a comprehensive knowledge management system for coffee roasting operations at Roasters Coffee House. It provides:
-
-- **Operational Documentation**: Step-by-step roasting procedures for different coffee origins
-- **Equipment Manuals**: Technical documentation for the Diedrich IR-5 roaster
-- **Product Catalog**: Complete inventory of coffee offerings with descriptions and pricing
-- **Training Materials**: Flash cards and reference guides for staff training
-- **Customer Resources**: Web interface for customers to learn about coffee offerings
-
-For questions about the coffee roasting procedures or business operations, please contact Roasters Coffee House directly using the contact information provided above.
