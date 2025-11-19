@@ -1,4 +1,4 @@
-# Coffee Roasters Documentation
+# Roasters Coffee Documentation
 
 ***Coffee roasting notes, recipes, and reference materials***
 
