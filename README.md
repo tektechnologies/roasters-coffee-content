@@ -6,7 +6,8 @@
 
 ## Table of Contents
 
-### Roasters Book Site
+### Roasters Shift Book
+
 - [Roasters Book 1](/roasters-book-site/roasters-book-1.md)
 - [Roasters Book 2](/roasters-book-site/roasters-book-2.md)
 - [Roasters Book 3](/roasters-book-site/roasters-book-3.md)
@@ -63,6 +64,7 @@
 - [Roasters Book 55](/roasters-book-site/roasters-book-55.md)
 
 ### Cook Book Recipes
+
 - [Recipe 1](/roasters-cook-book/cook-book-recipe-1.md)
 - [Recipe 2](/roasters-cook-book/cook-book-recipe-2.md)
 - [Recipe 3](/roasters-cook-book/cook-book-recipe-3.md)
@@ -129,7 +131,8 @@
 - [Recipe 64](/roasters-cook-book/cook-book-recipe-64.md)
 - [Recipe 65](/roasters-cook-book/cook-book-recipe-65.md)
 
-### Roasting Guides
+### Roasting Guides and Notes
+
 - [Roasting 1](/roasting/roasting-1.md)
 - [Brazil](/roasting/Brazil.md)
 - [Espresso](/roasting/Esspresso.md)
@@ -139,6 +142,7 @@
 - [Mexico](/roasting/Mexico.md)
 
 ### Reference Materials
+
 - [Flash Cards PDF](/Roasters-flash-cards.pdf)
 
 ## Markdown Examples
@@ -147,12 +151,3 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-
-![Roasters Logo](/images/logo.fw.png)
-
-Format: ![Alt Text](url)
-
-https://github.com/tektechnologies/coffee-roasters - automatic!
-
-[GitHub Repository](https://github.com/tektechnologies/coffee-roasters)
-
