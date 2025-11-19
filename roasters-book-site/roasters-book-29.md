@@ -1,10 +1,10 @@
 # Roasters Book Page 29
 
-![Roasters Book Page 29](../images/roasters-book/roasters-book-29.JPG)
+![Roasters Book Page 29](../images/shift-book/roasters-book-29.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-29.JPG`
+**Source Image:** `../images/shift-book/roasters-book-29.JPG`
 
 ## Drink Special Recipes
 

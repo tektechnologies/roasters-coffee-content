@@ -1,10 +1,10 @@
 # Syrup Placement Chart
 
-![Roasters Book Page 2](../images/roasters-book/roasters-book-2.JPG)
+![Roasters Book Page 2](../images/shift-book/roasters-book-2.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-2.JPG`
+**Source Image:** `../images/shift-book/roasters-book-2.JPG`
 
 ## Syrup Placement Chart
 

@@ -1,10 +1,10 @@
 # Roasters Book Page 49
 
-![Roasters Book Page 49](../images/roasters-book/roasters-book-49.JPG)
+![Roasters Book Page 49](../images/shift-book/roasters-book-49.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-49.JPG`
+**Source Image:** `../images/shift-book/roasters-book-49.JPG`
 
 in the sun. In order to prevent the cherries from spoiling, they are raked and turned throughout the day, then covered at night, or if it rains, to prevent them from getting wet. Depending on the weather, this process might continue for several weeks for each batch of coffee. When the moisture content of the cherries drops to 11 percent, the dried cherries are moved to warehouses where they are stored
 

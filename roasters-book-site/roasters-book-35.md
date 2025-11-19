@@ -1,10 +1,10 @@
 # Roasters Book Page 35
 
-![Roasters Book Page 35](../images/roasters-book/roasters-book-35.JPG)
+![Roasters Book Page 35](../images/shift-book/roasters-book-35.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-35.JPG`
+**Source Image:** `../images/shift-book/roasters-book-35.JPG`
 
 ## Pour Over Instructions
 

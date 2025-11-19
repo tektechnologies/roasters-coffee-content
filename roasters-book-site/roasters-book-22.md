@@ -1,10 +1,10 @@
 # Roasters Book Page 22
 
-![Roasters Book Page 22](../images/roasters-book/roasters-book-22.JPG)
+![Roasters Book Page 22](../images/shift-book/roasters-book-22.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-22.JPG`
+**Source Image:** `../images/shift-book/roasters-book-22.JPG`
 
 ## Breakfast Aioli Recipe
 

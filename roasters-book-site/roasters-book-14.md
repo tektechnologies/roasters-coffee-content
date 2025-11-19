@@ -1,10 +1,10 @@
 # Roasters Book Page 14
 
-![Roasters Book Page 14](../images/roasters-book/roasters-book-14.JPG)
+![Roasters Book Page 14](../images/shift-book/roasters-book-14.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-14.JPG`
+**Source Image:** `../images/shift-book/roasters-book-14.JPG`
 
 ## Month: Feb
 

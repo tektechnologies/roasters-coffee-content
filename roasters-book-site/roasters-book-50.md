@@ -1,10 +1,10 @@
 # Roasters Book Page 50
 
-![Roasters Book Page 50](../images/roasters-book/roasters-book-50.JPG)
+![Roasters Book Page 50](../images/shift-book/roasters-book-50.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-50.JPG`
+**Source Image:** `../images/shift-book/roasters-book-50.JPG`
 
 touch. At that precise moment, the beans are rinsed by being sent through additional water channels. They are then ready for drying.
 

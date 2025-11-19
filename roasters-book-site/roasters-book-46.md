@@ -1,10 +1,10 @@
 # Roasters Book Page 46
 
-![Roasters Book Page 46](../images/roasters-book/roasters-book-46.JPG)
+![Roasters Book Page 46](../images/shift-book/roasters-book-46.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-46.JPG`
+**Source Image:** `../images/shift-book/roasters-book-46.JPG`
 
 ## Planting
 

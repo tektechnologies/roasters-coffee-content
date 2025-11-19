@@ -1,10 +1,10 @@
 # Roasters Book Page 42
 
-![Roasters Book Page 42](../images/roasters-book/roasters-book-42.JPG)
+![Roasters Book Page 42](../images/shift-book/roasters-book-42.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-42.JPG`
+**Source Image:** `../images/shift-book/roasters-book-42.JPG`
 
 ## Coffee Tasting Notes
 

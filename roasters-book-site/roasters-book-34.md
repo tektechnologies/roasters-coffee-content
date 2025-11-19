@@ -1,10 +1,10 @@
 # Roasters Book Page 34
 
-![Roasters Book Page 34](../images/roasters-book/roasters-book-34.JPG)
+![Roasters Book Page 34](../images/shift-book/roasters-book-34.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-34.JPG`
+**Source Image:** `../images/shift-book/roasters-book-34.JPG`
 
 ## Coffee Roasts
 

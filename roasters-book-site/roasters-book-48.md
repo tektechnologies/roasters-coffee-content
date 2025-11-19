@@ -1,10 +1,10 @@
 # Roasters Book Page 48
 
-![Roasters Book Page 48](../images/roasters-book/roasters-book-48.JPG)
+![Roasters Book Page 48](../images/shift-book/roasters-book-48.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-48.JPG`
+**Source Image:** `../images/shift-book/roasters-book-48.JPG`
 
 ## Coffee Harvesting and Processing
 

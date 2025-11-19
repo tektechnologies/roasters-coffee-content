@@ -1,10 +1,10 @@
 # Roasters Book Page 38
 
-![Roasters Book Page 38](../images/roasters-book/roasters-book-38.JPG)
+![Roasters Book Page 38](../images/shift-book/roasters-book-38.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-38.JPG`
+**Source Image:** `../images/shift-book/roasters-book-38.JPG`
 
 ## Vendors
 

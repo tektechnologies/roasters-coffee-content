@@ -1,10 +1,10 @@
 # SYRUP LIST
 
-![Roasters Book Page 9](../images/roasters-book/roasters-book-9.JPG)
+![Roasters Book Page 9](../images/shift-book/roasters-book-9.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-9.JPG`
+**Source Image:** `../images/shift-book/roasters-book-9.JPG`
 
 ## Regular Syrups
 

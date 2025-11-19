@@ -1,10 +1,10 @@
 # Cleaning Tasks
 
-![Roasters Book Page 12](../images/roasters-book/roasters-book-12.JPG)
+![Roasters Book Page 12](../images/shift-book/roasters-book-12.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-12.JPG`
+**Source Image:** `../images/shift-book/roasters-book-12.JPG`
 
 - Clean syrup racks
 

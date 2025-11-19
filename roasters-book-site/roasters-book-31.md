@@ -1,10 +1,10 @@
 # Roasters Book Page 31
 
-![Roasters Book Page 31](../images/roasters-book/roasters-book-31.JPG)
+![Roasters Book Page 31](../images/shift-book/roasters-book-31.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-31.JPG`
+**Source Image:** `../images/shift-book/roasters-book-31.JPG`
 
 ## Coffee Menu
 

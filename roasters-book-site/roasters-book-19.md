@@ -1,10 +1,10 @@
 # Roasters Book Page 19
 
-![Roasters Book Page 19](../images/roasters-book/roasters-book-19.JPG)
+![Roasters Book Page 19](../images/shift-book/roasters-book-19.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-19.JPG`
+**Source Image:** `../images/shift-book/roasters-book-19.JPG`
 
 ## Breakfast Burritos
 

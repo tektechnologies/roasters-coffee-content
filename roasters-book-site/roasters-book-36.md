@@ -1,10 +1,10 @@
 # Roasters Book Page 36
 
-![Roasters Book Page 36](../images/roasters-book/roasters-book-36.JPG)
+![Roasters Book Page 36](../images/shift-book/roasters-book-36.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-36.JPG`
+**Source Image:** `../images/shift-book/roasters-book-36.JPG`
 
 ## Dark Roasts
 

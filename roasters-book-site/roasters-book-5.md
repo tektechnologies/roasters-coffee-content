@@ -1,10 +1,10 @@
 # Sticky Notes Recipes
 
-![Roasters Book Page 5](../images/roasters-book/roasters-book-5.JPG)
+![Roasters Book Page 5](../images/shift-book/roasters-book-5.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-5.JPG`
+**Source Image:** `../images/shift-book/roasters-book-5.JPG`
 
 ### Yellow Sticky Note (Left)
 

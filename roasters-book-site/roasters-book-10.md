@@ -1,10 +1,10 @@
 # Cleaning Lists
 
-![Roasters Book Page 10](../images/roasters-book/roasters-book-10.JPG)
+![Roasters Book Page 10](../images/shift-book/roasters-book-10.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-10.JPG`
+**Source Image:** `../images/shift-book/roasters-book-10.JPG`
 
 ## Clean Tables + Coffee Bar
 

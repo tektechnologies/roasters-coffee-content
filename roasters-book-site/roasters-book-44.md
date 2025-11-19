@@ -1,10 +1,10 @@
 # Roasters Book Page 44
 
-![Roasters Book Page 44](../images/roasters-book/roasters-book-44.JPG)
+![Roasters Book Page 44](../images/shift-book/roasters-book-44.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-44.JPG`
+**Source Image:** `../images/shift-book/roasters-book-44.JPG`
 
 ## Inventory Lists
 

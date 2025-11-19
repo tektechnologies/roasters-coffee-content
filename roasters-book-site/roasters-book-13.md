@@ -1,10 +1,10 @@
 # Roasters Book Page 13
 
-![Roasters Book Page 13](../images/roasters-book/roasters-book-13.JPG)
+![Roasters Book Page 13](../images/shift-book/roasters-book-13.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-13.JPG`
+**Source Image:** `../images/shift-book/roasters-book-13.JPG`
 
 ## Week of __________
 

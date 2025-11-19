@@ -1,10 +1,10 @@
 # Syrups
 
-![Roasters Book Page 6](../images/roasters-book/roasters-book-6.JPG)
+![Roasters Book Page 6](../images/shift-book/roasters-book-6.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-6.JPG`
+**Source Image:** `../images/shift-book/roasters-book-6.JPG`
 
 ## 2c = 1 full bottle
 

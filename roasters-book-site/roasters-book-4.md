@@ -1,7 +1,7 @@
 # Roasters Book Page 4
 
-![Roasters Book Page 4](../images/roasters-book/roasters-book-4.JPG)
+![Roasters Book Page 4](../images/shift-book/roasters-book-4.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-4.JPG`
+**Source Image:** `../images/shift-book/roasters-book-4.JPG`

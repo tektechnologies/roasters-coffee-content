@@ -1,10 +1,10 @@
 # Roasters Book Page 52
 
-![Roasters Book Page 52](../images/roasters-book/roasters-book-52.JPG)
+![Roasters Book Page 52](../images/shift-book/roasters-book-52.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-52.JPG`
+**Source Image:** `../images/shift-book/roasters-book-52.JPG`
 
 Here's the continuation of the text in markdown:
 

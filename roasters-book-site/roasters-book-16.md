@@ -1,10 +1,10 @@
 # Roasters Book Page 16
 
-![Roasters Book Page 16](../images/roasters-book/roasters-book-16.JPG)
+![Roasters Book Page 16](../images/shift-book/roasters-book-16.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-16.JPG`
+**Source Image:** `../images/shift-book/roasters-book-16.JPG`
 
 ## Throughout the Day
 

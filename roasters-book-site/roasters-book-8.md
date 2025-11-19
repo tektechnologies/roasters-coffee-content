@@ -1,10 +1,10 @@
 # FLAVORED BEANS
 
-![Roasters Book Page 8](../images/roasters-book/roasters-book-8.JPG)
+![Roasters Book Page 8](../images/shift-book/roasters-book-8.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-8.JPG`
+**Source Image:** `../images/shift-book/roasters-book-8.JPG`
 
 - **Caramel Pecan**
 

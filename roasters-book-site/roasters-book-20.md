@@ -1,10 +1,10 @@
 # Roasters Book Page 20
 
-![Roasters Book Page 20](../images/roasters-book/roasters-book-20.JPG)
+![Roasters Book Page 20](../images/shift-book/roasters-book-20.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-20.JPG`
+**Source Image:** `../images/shift-book/roasters-book-20.JPG`
 
 ## Bacon Quiche
 

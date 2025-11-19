@@ -1,10 +1,10 @@
 # Roasters Book Page 33
 
-![Roasters Book Page 33](../images/roasters-book/roasters-book-33.JPG)
+![Roasters Book Page 33](../images/shift-book/roasters-book-33.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-33.JPG`
+**Source Image:** `../images/shift-book/roasters-book-33.JPG`
 
 ## Closing Procedure
 

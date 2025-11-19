@@ -1,10 +1,10 @@
 # Roasters Coffee House Menu
 
-![Roasters Book Page 3](../images/roasters-book/roasters-book-3.JPG)
+![Roasters Book Page 3](../images/shift-book/roasters-book-3.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-3.JPG`
+**Source Image:** `../images/shift-book/roasters-book-3.JPG`
 
 ## Blends
 

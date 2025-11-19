@@ -1,6 +1,6 @@
 # Roasters Book Page 40
 
-![Roasters Book Page 40](../images/roasters-book/roasters-book-40.JPG)
+![Roasters Book Page 40](../images/shift-book/roasters-book-40.JPG)
 
 ## Extracted Text
 
@@ -8,4 +8,4 @@
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-40.JPG`
+**Source Image:** `../images/shift-book/roasters-book-40.JPG`

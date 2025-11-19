@@ -1,10 +1,10 @@
 # Roasters Book Page 39
 
-![Roasters Book Page 39](../images/roasters-book/roasters-book-39.JPG)
+![Roasters Book Page 39](../images/shift-book/roasters-book-39.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-39.JPG`
+**Source Image:** `../images/shift-book/roasters-book-39.JPG`
 
 # Service/Repair
 

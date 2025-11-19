@@ -1,10 +1,10 @@
 # Roasters Book Page 26
 
-![Roasters Book Page 26](../images/roasters-book/roasters-book-26.JPG)
+![Roasters Book Page 26](../images/shift-book/roasters-book-26.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-26.JPG`
+**Source Image:** `../images/shift-book/roasters-book-26.JPG`
 
 ## Coffee Recipe Chart
 

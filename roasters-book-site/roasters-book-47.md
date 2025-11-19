@@ -1,10 +1,10 @@
 # Roasters Book Page 47
 
-![Roasters Book Page 47](../images/roasters-book/roasters-book-47.JPG)
+![Roasters Book Page 47](../images/shift-book/roasters-book-47.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-47.JPG`
+**Source Image:** `../images/shift-book/roasters-book-47.JPG`
 
 ## Harvesting (continued)
 

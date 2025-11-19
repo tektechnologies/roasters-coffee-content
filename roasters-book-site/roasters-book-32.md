@@ -1,10 +1,10 @@
 # Roasters Book Page 32
 
-![Roasters Book Page 32](../images/roasters-book/roasters-book-32.JPG)
+![Roasters Book Page 32](../images/shift-book/roasters-book-32.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-32.JPG`
+**Source Image:** `../images/shift-book/roasters-book-32.JPG`
 
 ## Roasting Basics
 

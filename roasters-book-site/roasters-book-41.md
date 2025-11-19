@@ -1,10 +1,10 @@
 # Roasters Book Page 41
 
-![Roasters Book Page 41](../images/roasters-book/roasters-book-41.JPG)
+![Roasters Book Page 41](../images/shift-book/roasters-book-41.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-41.JPG`
+**Source Image:** `../images/shift-book/roasters-book-41.JPG`
 
 ## Coffee Tasting Terms
 

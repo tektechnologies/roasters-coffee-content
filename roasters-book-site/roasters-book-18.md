@@ -1,10 +1,10 @@
 # Roasters Book Page 18
 
-![Roasters Book Page 18](../images/roasters-book/roasters-book-18.JPG)
+![Roasters Book Page 18](../images/shift-book/roasters-book-18.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-18.JPG`
+**Source Image:** `../images/shift-book/roasters-book-18.JPG`
 
 ## Breakfast Sandwiches
 

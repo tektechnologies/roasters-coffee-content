@@ -1,10 +1,10 @@
 # Roasters Book Page 28
 
-![Roasters Book Page 28](../images/roasters-book/roasters-book-28.JPG)
+![Roasters Book Page 28](../images/shift-book/roasters-book-28.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-28.JPG`
+**Source Image:** `../images/shift-book/roasters-book-28.JPG`
 
 ## Cold Brew and Blended Drink Recipes
 

@@ -1,10 +1,10 @@
 # Opening Checklist
 
-![Roasters Book Page 11](../images/roasters-book/roasters-book-11.JPG)
+![Roasters Book Page 11](../images/shift-book/roasters-book-11.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-11.JPG`
+**Source Image:** `../images/shift-book/roasters-book-11.JPG`
 
 - Clock in
 - Turn on lights, including lamps and backroom

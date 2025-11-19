@@ -1,10 +1,10 @@
 # Seasonal Simple Syrup Recipes
 
-![Roasters Book Page 7](../images/roasters-book/roasters-book-7.JPG)
+![Roasters Book Page 7](../images/shift-book/roasters-book-7.JPG)
 
 ---
 
-**Source Image:** `../images/roasters-book/roasters-book-7.JPG`
+**Source Image:** `../images/shift-book/roasters-book-7.JPG`
 
 ## Fall
 
