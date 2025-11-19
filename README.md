@@ -2,7 +2,9 @@
 
 ***Coffee roasting notes, recipes, and reference materials***
 
-[Old Website Link](https://github.com/tektechnologies/roasterscoffeehouse-com)
+[Old Website Link](https://tektechnologies.github.io/roasterscoffeehouse-com/)
+
+[Website Files and images](https://github.com/tektechnologies/roasterscoffeehouse-com)
 
 ## Table of Contents
 
