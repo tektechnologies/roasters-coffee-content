@@ -1,10 +1,10 @@
 # Cook Book Recipe 2
 
-![Cook Book Recipe 2](../images/cook-book-roasters/cook-book-recipe-2.JPG)
+![Cook Book Recipe 2](../images/cook-book/cook-book-recipe-2.JPG)
 
 ---
 
-**Source Image:** `../images/cook-book-roasters/cook-book-recipe-2.JPG`
+**Source Image:** `../images/cook-book/cook-book-recipe-2.JPG`
 
 Here's the text from the image formatted in markdown:
 
