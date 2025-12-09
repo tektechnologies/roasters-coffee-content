@@ -16,8 +16,6 @@
 
 ## Card 2 (Bottom)
 
-### Abbreviation: C
-
 ## Latte (Hot or Iced)
 
 1oz : 5 oz
