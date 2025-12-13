@@ -14,4 +14,3 @@ Here's the text from the image in markdown format:
 3. Season w/ everything bagel seasoning
 4. Cut in ½
 5. Top w/ pickled veggies + greens
-
